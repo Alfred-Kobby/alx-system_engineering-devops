@@ -29,3 +29,5 @@
 14-copy_html file: copies all html files from current working directory to parent directory except those that already exist in parent directory or new than the incoming file
 
 100-lets_move file: moves all files starting with a capital letter to /tmp/u
+
+101-clean_emacs file: deletes all files that end with ~ in the current working directory
