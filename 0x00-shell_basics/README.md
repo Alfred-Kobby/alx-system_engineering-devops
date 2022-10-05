@@ -15,3 +15,5 @@
 7-movethatfile file: moves betty file from tmp directory to my_first_directory directory
 
 7-movethatfile file: deletes betty file from my_first_directory directory
+
+7-movethatfile file: deletes my_first_directory directory
