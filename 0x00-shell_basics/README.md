@@ -35,3 +35,5 @@
 102-tree file: creates directories welcome, welcome/to, welcome/to/school
 
 103-commas file: list files in comma seperated and sorted by digits
+
+school.mgc file: Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
