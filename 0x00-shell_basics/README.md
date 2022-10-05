@@ -23,3 +23,5 @@
 11-lists file : list the content of the current directory, parent directory and the boot directory in the long format including hidden files
 
 12-file_type file: prints the type of the file named iamafile
+
+13-symbolic_link file: creates a symbolic link to /tmp/bin
