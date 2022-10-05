@@ -27,3 +27,5 @@
 13-symbolic_link file: creates a symbolic link to /tmp/bin
 
 14-copy_html file: copies all html files from current working directory to parent directory except those that already exist in parent directory or new than the incoming file
+
+100-lets_move file: moves all files starting with a capital letter to /tmp/u
