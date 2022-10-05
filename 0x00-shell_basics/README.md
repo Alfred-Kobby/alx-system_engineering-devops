@@ -21,3 +21,5 @@
 10-back file: changes working directory to previous one
 
 11-lists file : list the content of the current directory, parent directory and the boot directory in the long format including hidden files
+
+12-file_type file: prints the type of the file named iamafile
