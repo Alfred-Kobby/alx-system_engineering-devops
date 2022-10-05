@@ -33,3 +33,5 @@
 101-clean_emacs file: deletes all files that end with ~ in the current working directory
 
 102-tree file: creates directories welcome, welcome/to, welcome/to/school
+
+103-commas file: list files in comma seperated and sorted by digits
