@@ -5,3 +5,5 @@
 
 
 3-listfiles file: Display current directory contents in a long format
+
+4-listmorefiles file: Display current directory contents, including hidden files usinf the long format
