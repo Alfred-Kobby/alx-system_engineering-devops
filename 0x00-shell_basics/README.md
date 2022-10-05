@@ -17,3 +17,5 @@
 7-movethatfile file: deletes betty file from my_first_directory directory
 
 7-movethatfile file: deletes my_first_directory directory
+
+10-back file: changes working directory to previous one
