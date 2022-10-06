@@ -18,6 +18,10 @@
 
 9-John_Doe file: gives owner all permissions, group, read and execute and other users, write and excute permissions
 
+11-directories_permissions file: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
+10-mirror_permissions file: sets the mode of the file hello the same as olleh’s mode
+
 12-directory_permissions file: create a directory called my_dir with 751 as permissions
 
 13-change_group file: changes the group owner to school for the file hello
