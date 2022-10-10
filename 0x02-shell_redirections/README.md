@@ -12,6 +12,8 @@
 
 6-third_line file: displays the third line of the file iacta.
 
+7-file file: creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
 8-cwd_state file: writes into the file ls_cwd_content the result of the command ls -la
 
 9-duplicate_last_line file: duplicates the last line of the file iacta
@@ -32,8 +34,12 @@
 
 17-hidethisword file: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+18-letteronly file: Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
 20-hiago file: removes all letters c and C from input.
 
 19-AZ file: Replace all characters A and c from input to Z and e respectively
 
 21-reverse file: reverse its input.
+
+22-users_and_homes file: displays all users and their home directories, sorted by users.
