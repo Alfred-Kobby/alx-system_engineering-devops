@@ -13,3 +13,5 @@
 6-third_line file: displays the third line of the file iacta.
 
 8-cwd_state file: writes into the file ls_cwd_content the result of the command ls -la
+
+9-duplicate_last_line file: duplicates the last line of the file iacta
