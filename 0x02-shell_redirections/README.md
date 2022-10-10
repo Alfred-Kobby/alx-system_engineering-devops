@@ -29,3 +29,7 @@
 16-whatsnext file: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 17-hidethisword file: Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+20-hiago file: removes all letters c and C from input.
+
+19-AZ file: Replace all characters A and c from input to Z and e respectively
