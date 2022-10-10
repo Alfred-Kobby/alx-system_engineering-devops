@@ -21,3 +21,5 @@
 11-directories file: counts the number of directories and sub-directories in the current directory.
 
 12-newest_files file: displays the 10 newest files in the current directory.
+
+14-findthatword file: Display lines containing the pattern “root” from the file /etc/passwd
