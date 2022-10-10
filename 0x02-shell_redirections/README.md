@@ -33,3 +33,5 @@
 20-hiago file: removes all letters c and C from input.
 
 19-AZ file: Replace all characters A and c from input to Z and e respectively
+
+21-reverse file: reverse its input.
