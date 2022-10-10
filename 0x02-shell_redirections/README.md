@@ -3,3 +3,5 @@
 1-confused_smiley file: displays a confused smiley "(Ôo)'
 
 2-hellofile file: Display the content of the /etc/passwd file
+
+3-twofiles file: Display the content of /etc/passwd and /etc/hosts
