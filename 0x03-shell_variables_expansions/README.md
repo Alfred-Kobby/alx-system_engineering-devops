@@ -32,3 +32,5 @@
 101-rot13 file: encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 102-odd file: prints every other line from the input, starting with the first line.
+
+103-water_and_stir file: add two numbers stored in the environment variables WATER and STIR and prints the result.
