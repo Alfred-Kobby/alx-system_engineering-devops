@@ -13,3 +13,5 @@
 7-create_global_variable file: creates a global variable BEST with value School
 
 8-true_knowledge file: prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+9-divide_and_rule file: prints the result of POWER divided by DIVIDE, followed by a new line.
