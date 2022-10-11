@@ -22,4 +22,6 @@
 
 11-binary_to_decimal file: converts a number from base 2 to base 10.
 
+12-combinations file: prints all possible combinations of two letters, except oo
+
 13-print_float file: prints a number with two decimal places, followed by a new line.
