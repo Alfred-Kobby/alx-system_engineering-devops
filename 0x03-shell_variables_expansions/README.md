@@ -7,3 +7,5 @@
 4-global_variables file: lists environment variables
 
 5-local_variables file: lists all local variables and environment variables, and functions.
+
+6-create_local_variable file: creates a local variable BEST with value School
