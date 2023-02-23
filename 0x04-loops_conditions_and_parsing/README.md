@@ -14,3 +14,7 @@
 6-superstitious_numbers file: Bash script that displays numbers from 1 to 20
 
 7-clock file: Bash script that displays the time for 12 hours and 59 minutes
+
+8-for_ls file: ash script that displays: The content of the current directory, In a list format, Where only the part of the name after the first dash is displayed
+
+9-to_file_or_not_to_file: Bash script that gives you information about the school file
