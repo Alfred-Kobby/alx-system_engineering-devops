@@ -22,3 +22,5 @@
 10-fizzbuzz file: Bash script that displays numbers from 1 to 100.
 
 100-read_and_cut file: Bash script that displays the content of the file /etc/passwd
+
+101-tell_the_story_of_passwd file: password tells a story
