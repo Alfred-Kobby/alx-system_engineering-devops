@@ -4,3 +4,5 @@
 
 
 2-while_best_school file: Bash script that displays Best School 10 times with while loop
+
+3-until_best_school file: Bash script that displays Best School 10 times with until loop
