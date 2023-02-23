@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Checks if file exists, is empty, and regular
-file="holbertonschool"
+file="school"
 if [ -e $file ]; then
 	echo "$file file exists"
 	if [ -s $file ]; then
