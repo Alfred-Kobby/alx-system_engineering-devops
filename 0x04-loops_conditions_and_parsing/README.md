@@ -20,3 +20,5 @@
 9-to_file_or_not_to_file: Bash script that gives you information about the school file
 
 10-fizzbuzz file: Bash script that displays numbers from 1 to 100.
+
+100-read_and_cut file: Bash script that displays the content of the file /etc/passwd
