@@ -9,4 +9,6 @@
 
 4-if_9_say_hi file: Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line
 
-5-4_bad_luck_8_is_your_chance: Bash script that loops from 1 to 10
+5-4_bad_luck_8_is_your_chance file: Bash script that loops from 1 to 10
+
+6-superstitious_numbers file: Bash script that displays numbers from 1 to 20
