@@ -12,3 +12,5 @@
 5-4_bad_luck_8_is_your_chance file: Bash script that loops from 1 to 10
 
 6-superstitious_numbers file: Bash script that displays numbers from 1 to 20
+
+7-clock file: Bash script that displays the time for 12 hours and 59 minutes
