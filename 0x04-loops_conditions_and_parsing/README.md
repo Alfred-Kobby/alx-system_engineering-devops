@@ -26,3 +26,5 @@
 101-tell_the_story_of_passwd file: password tells a story
 
 102-lets_parse_apache_logs file: Bash script that displays the visitor IP along with the HTTP status code from the Apache log file
+
+103-dig_the-data file: 

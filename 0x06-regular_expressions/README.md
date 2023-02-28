@@ -11,3 +11,7 @@
 5-beginning_and_end.rb file: regular expression that will match the above cases
 
 6-phone_number.rb file: regular expression that will match the above cases
+
+7-OMG_WHY_ARE_YOU_SHOUTING.rb file: regular expression must be only matching: capital letters
+
+100-textme.rb file
