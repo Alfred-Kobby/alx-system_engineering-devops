@@ -3,3 +3,5 @@
 1-create_ssh_key_pair file: script that creates an RSA key pair
 
 2-ssh_config file: script that configures to login to ssh without a password
+
+0x0B-ssh file: script to connect to server
