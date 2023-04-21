@@ -1,0 +1,1 @@
+0-use_a_private_key file: script to use ssh to conneect to server with private key
