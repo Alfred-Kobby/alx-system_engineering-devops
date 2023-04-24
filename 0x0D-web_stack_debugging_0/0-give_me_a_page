@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# RComand to restart apache 2 server in docker container
+service apache2 restart
