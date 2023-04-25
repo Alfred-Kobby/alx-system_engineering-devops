@@ -3,3 +3,5 @@
 1-install_nginx_web_server file: script that installs nginx
 
 2-setup_a_domain_name file: contains domain name
+
+3-redirection file: ridercts
