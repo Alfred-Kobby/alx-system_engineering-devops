@@ -5,3 +5,5 @@
 2-setup_a_domain_name file: contains domain name
 
 3-redirection file: ridercts
+
+4-not_found_page_404 file: configures 404 page
