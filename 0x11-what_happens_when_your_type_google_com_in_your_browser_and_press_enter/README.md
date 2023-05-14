@@ -1,0 +1,1 @@
+This is a directory that explains what happens when you type a web address in your address bar and press enter using blogs
