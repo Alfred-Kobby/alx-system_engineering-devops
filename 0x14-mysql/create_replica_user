@@ -1,6 +1,6 @@
 -- Setup replica user as slave on sql server                                     
-CREATE USER IF NOT EXISTS 'replica_user'@'%';
-SET PASSWORD FOR 'replica_user'@'%' = 'pwd';
-GRANT REPLICATION SLAVE ON *.* TO 'replica_user'@'%';
-GRANT SELECT ON mysql.user TO 'holberton_user'@'%';
+CREATE USER IF NOT EXISTS 'replica_user'@'localhost';
+SET PASSWORD FOR 'replica_user'@'localhost' = 'pwd';
+GRANT REPLICATION SLAVE ON *.* TO 'replica_user'@'localhost';
+GRANT SELECT ON mysql.user TO 'holberton_user'@'localhost';
 FLUSH PRIVILEGES;
